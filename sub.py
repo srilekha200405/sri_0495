@@ -1,0 +1,1 @@
+print("subtract",100-5)
